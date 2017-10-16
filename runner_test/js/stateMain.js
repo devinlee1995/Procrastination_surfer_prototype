@@ -18,7 +18,7 @@ var StateMain = {
         this.clickLock = false;
         this.power = 0;
         //turn the background sky blue
-        game.stage.backgroundColor = "#A5F2F3";
+        game.stage.backgroundColor = "#419ebf";
         //add the ground
         this.ground = game.add.sprite(0, game.height * .8, "ground");
         //add the hero in
